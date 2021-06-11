@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nick</h1>
-<h3 align="center">I am a self taught full stack JavaScript developer and here are all my projects. Have a look around!</h3>
+<h1>Hi 👋, I'm Nick</h1>
+<h3>I am a self taught full stack JavaScript developer and here are all my projects. Have a look around!</h3>
 
 
 <h3 align="left">This is what I like to work with</h3>
