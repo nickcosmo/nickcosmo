@@ -10,4 +10,5 @@ I am a self taught full stack JavaScript developer and here is wehre I keep all 
 - MongoDB
 - Firebase
 
+<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="55" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="55" />
