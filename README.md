@@ -9,3 +9,5 @@ I am a self taught full stack JavaScript developer and here is wehre I keep all 
 - Express
 - MongoDB
 - Firebase
+
+![Firebase](https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg)
