@@ -14,9 +14,7 @@ I am a self taught full stack JavaScript developer and here is wehre I keep all 
 - MySQL
 - Sass
 
-<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-	 viewBox="0 0 128 128">
+<svg>
 <g>
 	<path fill="#f58220" d="M11.4,115.62H8.25V91.22h14.25v3.01H11.4v8.02h10.04v2.93H11.42v10.44H11.4z"/>
 	<path fill="#f58220" d="M27.92,94.74c-0.43,0.43-0.96,0.64-1.57,0.64c-0.61,0-1.15-0.21-1.57-0.64c-0.43-0.43-0.64-0.96-0.64-1.57
